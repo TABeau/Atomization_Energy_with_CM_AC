@@ -1,0 +1,6 @@
+Download all the files in the same folder.
+Matlab R2018b was used. 
+Cmat_Results.xlsx file --- contains the Coulomb matrix of each molecule in the QM7 dataset sorted in decreasing order.
+qm7Molecule_Eigen-Spectrum_AE.xlsx file  -- contains the Eigen values of the Coulomb matrix of each molecule in the QM7 dataset sorted in decreasing order
+QM7_Molecules_Atoms_1Property_AE.xlsx file -- contains the atomic composition of each of the molecule in the QM7 dataset. The last column the Atomization energy the out put of the ML model.
+MatlabCodePaper.m file -- the Matlab codes.
